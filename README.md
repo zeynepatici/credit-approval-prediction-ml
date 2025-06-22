@@ -3,7 +3,7 @@
 
 ## 🇹🇷 Proje Açıklaması
 
-Bu projede, bireylerin demografik, mesleki ve finansal özellikleri kullanılarak kredi kartı başvuru sonuçlarını (onay/ret) tahmin eden bir sınıflandırma sistemi geliştirilmiştir. Veri seti Kaggle platformundan alınmıştır.
+Bu projede, bireylerin demografik, mesleki ve finansal özellikleri kullanılarak kredi kartı başvuru sonuçlarını (onay/ret) tahmin eden bir sınıflandırma sistemi geliştirilmiştir. Veri seti Kaggle platformundan alınmıştır [(https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) .
 
 ### 🚀 Hedef:
 - Kredi başvurularının onay/ret durumunu doğru şekilde tahmin etmek
